@@ -101,7 +101,7 @@ AUTHENTICATION_BACKENDS = [
 # 240318269996-2ujo6ujdtq45cukgergu7qn7vdfk8idi.apps.googleusercontent.com
 # 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
 
-WSGI_APPLICATION = 'legaltech.wsgi.app'
+WSGI_APPLICATION = 'legaltech.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.1/ref/settings/#databases
